@@ -1,4 +1,4 @@
-# flutter_recipe_box_3
+# flutter_recipe_box
 
 A new Flutter project.
 
