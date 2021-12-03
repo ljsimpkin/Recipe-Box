@@ -6,8 +6,8 @@ Designed for IOS, Android, and Web
 # Try Me
 https://ljsimpkin.github.io/Recipe-Box-WebApp/#/
 
-![alt text](./screenshots/1.png)
-![alt text](./screenshots/2.png)
+![alt text](./screenShots/1.png)
+![alt text](./screenShots/2.png)
 
 ## Getting Started
 
